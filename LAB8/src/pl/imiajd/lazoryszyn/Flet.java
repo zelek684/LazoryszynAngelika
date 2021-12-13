@@ -1,4 +1,4 @@
-
+package pl.imiajd.lazoryszyn;
 import java.time.LocalDate;
 
 public class Flet extends Instrument {

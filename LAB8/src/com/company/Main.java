@@ -1,4 +1,13 @@
-package pl.imiajd.lazoryszyn;
+package com.company;
+import pl.imiajd.lazoryszyn.Osoba;
+import pl.imiajd.lazoryszyn.Pracownik;
+import pl.imiajd.lazoryszyn.Student;
+import pl.imiajd.lazoryszyn.Instrument;
+import pl.imiajd.lazoryszyn.Flet;
+import pl.imiajd.lazoryszyn.Fortepian;
+import pl.imiajd.lazoryszyn.Skrzypce;
+
+
 import java.time.LocalDate;
 import java.util.*;
 

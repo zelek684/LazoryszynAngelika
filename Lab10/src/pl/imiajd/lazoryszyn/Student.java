@@ -23,6 +23,6 @@ public class Student extends Osoba implements Cloneable, Comparable<Osoba> {
         return this.getClass().getSimpleName()+
                 "[" + this.getNazwisko()+' '+
                 this.getDataUrodzenia().toString()+' '+
-                "sredniaOcen=" + sredniaOcen + ']';
+                "Średnia ocen = " + sredniaOcen + ']';
     }
 }

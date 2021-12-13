@@ -1,6 +1,6 @@
-
+package pl.imiajd.lazoryszyn;
 import java.time.LocalDate;
-import java.util.*;
+import java.util.Objects;
 
 class Student extends Osoba
 {
