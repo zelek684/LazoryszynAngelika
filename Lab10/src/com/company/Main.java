@@ -58,7 +58,7 @@ public class Main {
                 System.out.println("Czy widzi plik?");
                 e.printStackTrace();
             }
-            System.out.println("Tekst TEST" +Zadanie3);
+            System.out.println("Tekst tteeesssttt" +Zadanie3);
             Collections.sort(Zadanie3);
             System.out.println(Zadanie3);
         }

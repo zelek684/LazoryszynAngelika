@@ -1,8 +1,7 @@
 package pl.imiajd.lazoryszyn;
 import java.time.LocalDate;
-import java.util.Objects;
 
-    abstract class Osoba {
+public abstract class Osoba {
     private String nazwisko;
     private String[] imiona;
     private LocalDate DataUrodzenia;

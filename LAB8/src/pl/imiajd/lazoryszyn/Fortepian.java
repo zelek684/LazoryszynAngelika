@@ -1,4 +1,5 @@
 package pl.imiajd.lazoryszyn;
+
 import java.time.LocalDate;
 
 public class Fortepian extends Instrument {
